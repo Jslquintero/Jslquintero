@@ -1,32 +1,43 @@
-José Salvador López
+# José Salvador López
 
-**Resumen**
+## Resume
 
-Desarrollador web Full-Stack altamente motivado con experiencia en el desarrollo y la implementación de sistemas de inventario y paneles administrativos. Apasionado por aprender nuevas tecnologías y enfocado en brindar soluciones eficientes y escalables.
+Motivated Full-Stack Web Developer experienced in inventory systems and administrative dashboards. Skilled in [ASP.NET](http://ASP.NET), React, and Angular, dedicated to delivering efficient solutions.
 
-**Experiencia laboral**
+## Work Experience
 
--   **Desarrollador web independiente (Freelance)**  | Panamá | 2021 - Presente
-    
-    -   **Logros:**
-        -   Participé en el desarrollo de   **múltiples**  sistemas de inventario y paneles administrativos utilizando tecnologías como ASPNET, React y Angular.
-        -   Contribuí al desarrollo de sistemas de gestión de equipos de construcción y sistema de administración de góndolas para una cadena de supermercado nacional, entre otros.
-        -   Implementé un sistema administrativo para importaciones aduaneras,  **optimizando**  el proceso de gestión.
--   **Desarrollador web junior**  | Diprocess | Panamá | 2021
-    
-    -   **Responsabilidades:**
-        -   Participación activa en el desarrollo e implementación desde cero de un sistema de gestión de inventario.
-        -   Mantenimiento de sistemas para una compañía de seguros,  **garantizando**  su correcto funcionamiento.
+### Freelance Web Developer | Panama | 2021 - Present
 
-**Proyectos paralelos**
+-   **Achievements:**
+    -   Contributed to the development of **multiple** inventory systems and administrative dashboards using technologies such as [ASP.NET](http://ASP.NET), React, and Angular. Improved client processes and efficiency.
+    -   Developed construction team management systems and shelf management systems for a national supermarket chain, among others.
+    -   Optimized the management process by implementing an administrative system for customs imports, resulting in streamlined operations.
 
--   **[Panel administrativo KL-Center](https://internet-kl.vercel.app/)**  | 2024
-    
-    -   **Descripción:**
-        -   Creé un sistema de gestión de inventario utilizando Angular 17 y Pocketbase como alternativa Backend-as-a-Service.
-        -   El backend del proyecto está alojado en PocketHost y el frontend en Vercel.
+### Junior Web Developer | Diprocess | Panama | 2021
 
-**Contacto**
+-   **Responsibilities:**
+    -   Actively participated in developing and implementing an inventory management system from scratch.
+    -   Ensured the proper functioning of systems for an insurance company through maintenance and troubleshooting.
+
+## Side Projects
+
+### [KL-Center Administrative Panel](https://internet--kl-vercel-app.translate.goog/auth/login?_x_tr_sl=es&_x_tr_tl=en&_x_tr_hl=es&_x_tr_pto=wapp&_x_tr_hist=true) | 2024
+
+-   **Description:**
+    -   Created an inventory management system using Angular 17 and Pocketbase as a Backend-as-a-Service alternative.
+    -   Hosted the project’s backend on PocketHost and the frontend on Vercel.
+
+## Skills
+
+-   Proficient in [ASP.NET](http://ASP.NET), React, Angular
+-   Flexibility and Adaptability
+
+## Education
+
+**Bachelor of Software Development** | Universidad Tecnológica de Panamá, Azuero | 2022
+
+## Contact
 
 -   [Github](https://github.com/jslquintero)
 -   [Linkedin](https://www.linkedin.com/in/jslquintero/)
+-   [contact@jslquintero.website](mailto:contact@jslquintero.website)
