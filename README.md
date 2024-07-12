@@ -1,6 +1,5 @@
 # José Salvador López
 
-## Resume
 
 Motivated Full-Stack Web Developer experienced in inventory systems and administrative dashboards. Skilled in [ASP.NET](http://ASP.NET), React, and Angular, dedicated to delivering efficient solutions.
 
