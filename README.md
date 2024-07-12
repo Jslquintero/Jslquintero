@@ -28,7 +28,7 @@ Motivated Full-Stack Web Developer experienced in inventory systems and administ
 
 ## Skills
 
--   Proficient in [ASP.NET](http://ASP.NET), React, Angular
+-   Proficient in [ASP.NET](http://ASP.NET), React, Angular and Solid.JS
 -   Flexibility and Adaptability
 
 ## Education
