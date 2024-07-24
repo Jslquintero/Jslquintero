@@ -4,7 +4,7 @@
 
 [contact_es@jslquintero.website](mailto:contact_es@jslquintero.website)  
 [in/jslquintero](https://www.linkedin.com/in/jslquintero/)  
-[Github/Jslquintero](https://github.com/Jslquintero)
+[github/Jslquintero](https://github.com/Jslquintero)
 
 </div>
 
