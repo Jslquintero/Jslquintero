@@ -3,8 +3,8 @@
 <div align="right">
 
 [contact_es@jslquintero.website](mailto:contact_es@jslquintero.website)  
-[Linkedin.com/in/jslquintero](https://www.linkedin.com/in/jslquintero/)  
-[Github.com/Jslquintero](https://github.com/Jslquintero)
+[in/jslquintero](https://www.linkedin.com/in/jslquintero/)  
+[Github/Jslquintero](https://github.com/Jslquintero)
 
 </div>
 
