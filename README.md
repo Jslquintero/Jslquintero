@@ -18,7 +18,7 @@ With 3 years of experience in developing inventory management systems and admini
 **Panama | 2021 - Present**
 
 - Contributed to the development of a shelf rental management system for supermarkets, optimizing resources and achieving a 20% improvement in operational efficiency.
-- Developed a custom React search component for a service platform, saving $10,000 in development cost by integrating it with Webflow through JavaScript and Babel instead of a full Webflow build.
+- Developed a custom React search component for a service platform, saving $5,000 in development cost by integrating it with Webflow through JavaScript and Babel instead of a full Webflow build.
 - Contributed to the migration of the Panther Healthcare Mexico website to ASP.NET Web Pages, ensuring a smooth transition.
 
 ### Junior Web Developer at Diprocess
