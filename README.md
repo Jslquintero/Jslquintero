@@ -1,7 +1,7 @@
 # José Salvador López
 
 **🌎** Remote, Panama
-• [Email](contact@jslquintero.website) • [LinkedIn](https://linkedin.com/in/jslquintero) •  [portfolio](https://jslquintero.website)  
+• [Email](mailto:ejemplo@dominio.com) • [LinkedIn](https://linkedin.com/in/jslquintero) •  [Portfolio](https://jslquintero.website)  
 
 ---
 
