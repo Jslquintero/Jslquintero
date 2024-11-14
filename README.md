@@ -7,7 +7,7 @@
 
 # Español
 
-## Desarrollador Full-Stack
+## Desarrollador Web
 
 Construyo sistemas web que ayudan a las empresas a realizar un seguimiento de sus productos y gestionar sus operaciones. He estado haciendo esto durante 3 años, utilizando lenguajes de programación como C# y TypeScript, junto con frameworks como ASP.NET, React y Angular.
 
@@ -21,7 +21,7 @@ Construyo sistemas web que ayudan a las empresas a realizar un seguimiento de su
 
 # English
 
-## Full-Stack Developer
+## Web Developer
 
 I build web systems that help businesses keep track of their products and manage their operations. I've been doing this for 3 years, using programming languages like C# and TypeScript, along with frameworks such as ASP.NET, React, and Angular.
 
